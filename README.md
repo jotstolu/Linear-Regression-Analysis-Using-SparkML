@@ -1,4 +1,4 @@
-# Linear-Regression-Analysis-Using-SparkML
+# Linear-Regression-Analysis-Using-SparkMLLIB
 
 This task aims to create a workflow or a series of steps to perform linear regression using Apache Spark's MLlib library. This involves Creating a Spark session, loading the data and pre-processing it (such as feature engineering and transformation), Creating a feature vector, splitting it into training and testing sets, training a linear regression model, evaluating the model's performance, and potentially deploying it for making predictions.
 To perform this operation using Apache Spark, a non- trivial research dataset - Restaurants Revenue Prediction dataset was obtained from [Kaggle website](https://www.kaggle.com/datasets/mrsimple07/restaurants-revenue-prediction/data) which proves valuable for running this operation due to its size, complexity, variety, validity and real-world relevance.
